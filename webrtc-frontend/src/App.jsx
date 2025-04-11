@@ -13,7 +13,6 @@ function App() {
           <Link to={"/chat"} >Chat</Link> |
           <Link to={"/"} >Main</Link>
         </nav>
-        <h1>WebRTC</h1>
       </div>
 
 
